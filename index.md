@@ -8,6 +8,7 @@ created bu logesh
 
  # commit overflow
  - git add filename
+ git commit -m "created new file"
 
  # checking status
  - git status
