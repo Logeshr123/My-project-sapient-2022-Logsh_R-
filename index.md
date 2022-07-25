@@ -16,4 +16,7 @@ created bu logesh
  # add all files and folders in git
   git add .
 
-  # 
+  # Adding a remote
+  -- git remote get remote_name remote_url
+  --generallu the default remote is called ''''origin''''
+  git remote -v
